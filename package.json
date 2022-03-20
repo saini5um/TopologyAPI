@@ -1,0 +1,15 @@
+{
+  "name": "nwds",
+  "version": "1.0.0",
+  "description": "fetches network topology data from mysql database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Saini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
+}
