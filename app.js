@@ -4,10 +4,10 @@ const port = 3005;
 
 // Create connection
 const db  = mysql.createConnection({
-    host : 'phx-0008.snphxprshared1.gbucdsint02phx.oraclevcn.com',
+    host : 'phx-zzz.wwww.xxxx.qqq.com',
     user : 'root',
-    password : 'CSMom10.0',
-    database: 'UIMDATA'
+    password : '*****',
+    database: '****'
 });
 
 // Connect
